@@ -26,6 +26,6 @@ I'm simulating hardware circuits and writing embedded C code to bring real-world
 - 🔗 LinkedIn: [https://www.linkedin.com/in/kanha-singh-b8a306357]
 
 ⚡ Fun fact:
-I love turning virtual circuits into real-world logic — one line of code at a time!
+I love turning virtual circuits into real-world logic..
 
 ---
