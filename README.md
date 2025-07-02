@@ -31,4 +31,4 @@ Embedded Systems Enthusiast | C Programmer | Project-Oriented Learner
 ### 📫 Contact:
 - **GitHub:**[Here is the link ] (https://github.com/Kanhasingh235)  
 - **Email:** kanhasingh666666@gmail.com
-- *
+- **Linkedin:** [Here is the link] (https://www.linkedin.com/in/kanha-singh-b8a306357)
