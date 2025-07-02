@@ -7,9 +7,8 @@ Embedded Systems Enthusiast | C Programmer | Project-Oriented Learner
 
 ### 🔧 Current Focus Areas:
 - 30-Day Embedded Systems Project Series (Wokwi Platform)
-- C Programming basic to major project in 30 days
 - Major Project: Home Automation System (In Progress)
-
+- "Began learning C Programming three months ago and applied concepts like structures, file handling, and dynamic memory in a self-built Student Management System project.
 ---
 
 ### 💡 Technical Skills:
