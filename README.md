@@ -1,19 +1,18 @@
 # Kanha Singh
 
-**B.Tech | Electronics and Communication Engineering | 3rd Year**  
+**B.Tech | Electronics and Communication Engineering | 4th Year**  
 Embedded Systems Enthusiast | C Programmer | Project-Oriented Learner
 
 ---
 
 ### 🔧 Current Focus Areas:
 - 30-Day Embedded Systems Project Series (Wokwi Platform)
-- Major Project: Home Automation System (In Progress)
 - "Began learning C Programming three months ago and applied concepts like structures, file handling, and dynamic memory in a self-built Student Management System project.
 ---
 
 ### 💡 Technical Skills:
 - **Languages:** C, Embedded C  
-- **Tools:** Arduino IDE, Wokwi, Git, GitHub, VS Code  
+- **Tools:** Arduino IDE, Wokwi, Git, GitHub, 
 - **Concepts:** Digital I/O, Timers, Sensors, Interrupts, File Handling in C
 
 ---
